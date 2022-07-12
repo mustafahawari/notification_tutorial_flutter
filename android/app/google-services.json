@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836924521030",
+    "project_id": "notificationtutorial-bef50",
+    "storage_bucket": "notificationtutorial-bef50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836924521030:android:b6dfa7be269ffef4b4a847",
+        "android_client_info": {
+          "package_name": "com.flutter_notification_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836924521030-b21n4s1vj6c420a0433sjmda8f39oic3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4IFRs6XfKINBYzngo9YtoqeuIVveVzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836924521030-b21n4s1vj6c420a0433sjmda8f39oic3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
